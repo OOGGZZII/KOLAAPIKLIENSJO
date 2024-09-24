@@ -1,0 +1,56 @@
+a {
+    text-decoration: none;
+}
+footer {
+    width: 100%;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+}
+table {
+    border-collapse: collapse;
+    width: 25%;
+}
+td, tr {
+    padding: 2px 5px 2px 5px;
+}
+thead {
+    background-color: darkgray;
+    font-weight: bold;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+/*.text-center {*/
+/*    text-align: center;*/
+/*}*/
+.even {
+    background-color: white;
+}
+.odd {
+    background-color: lightgray;
+}
+.header {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+.cancel {
+    text-align: center;
+}
+#editor{
+    background-color: gray;
+}
+.flex {
+    display: flex;
+}
+.float-right {
+    float: right;
+}
+.hidden {
+    display: none;
+}
+.id-col {
+    width: 5%;
+}
